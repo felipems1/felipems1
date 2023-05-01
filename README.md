@@ -1,17 +1,31 @@
-## Oii eu sou o Felipe, Desenvolvedor Front-End!
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Felipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Felipe-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Felipe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Felipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Felipe-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-</div>
-  
-  ##
- 
+## Olá, tudo bem ? 👋
 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
+Eu sou Felipe Moises
+
+Cursando Sistemas para Internet.
+
+Estou em busca de uma oportunidade para colocar em prática meus conhecimentos e evoluir como desenvolvedor front-end. Se você está em busca de alguém com potencial e vontade de aprender, ficarei feliz em conversar com você!
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipems1&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipems1&layout=compact&theme=tokyonight"/>
+</div>
+
+----
+
+### 🛠️ Tecnologias e Ferramentas que utilizo:
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,styledcomponents,tailwind,redux,firebase,figma,git,netlify,vercel,vite,vscode)](https://skillicons.dev)
+
+----
+
+<div align="center">
+  <a href="mailto:083felype@gmail.com" alt="Link para Gmail" rel="noreferrer" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/felipems1/" alt="Link para Linkedin" rel="noreferrer" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://portfolio-felipems1.netlify.app/" alt="Link para meu site(portfólio)" rel="noreferrer" target="_blank">
+  <img src="https://img.shields.io/badge/Meu%20Website-EDD11D?style=for-the-badge" /></a>
 </div>
