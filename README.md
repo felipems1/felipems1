@@ -1,15 +1,10 @@
-## Olá, tudo bem ? 👋
+## Olá, tudo bem ? 😀
 
-Eu sou Felipe Moises
+Eu sou Felipe Moises 👋
 
 Cursando Sistemas para Internet.
 
 Estou em busca de uma oportunidade para colocar em prática meus conhecimentos e evoluir como desenvolvedor front-end. Se você está em busca de alguém com potencial e vontade de aprender, ficarei feliz em conversar com você!
-
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipems1&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipems1&layout=compact&theme=tokyonight"/>
-</div>
 
 ----
 
