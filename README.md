@@ -1,8 +1,8 @@
 ## Olá, tudo bem ? 😀
 
-Eu sou Felipe Moises 👋
+Me chamo Felipe Moises 👋
 
-Cursando Sistemas para Internet.
+Atualmente cursando Sistemas para Internet.
 
 Estou em busca de uma oportunidade para colocar em prática meus conhecimentos e evoluir como desenvolvedor front-end. Se você está em busca de alguém com potencial e vontade de aprender, ficarei feliz em conversar com você!
 
