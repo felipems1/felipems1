@@ -7,5 +7,3 @@ Estou constantemente buscando aprender novas tecnologias e me manter atualizado 
 Apesar de ser iniciante em inglês, estou comprometido em aprimorar meu conhecimento nesse idioma para melhor colaborar com equipes.
 
 Estou em busca de uma oportunidade para colocar em prática meus conhecimentos e evoluir como desenvolvedor front-end. Se você está em busca de alguém com potencial e vontade de aprender, ficarei feliz em conversar com você!
-
-----
