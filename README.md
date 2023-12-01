@@ -1,9 +1,8 @@
-Olá, meu nome é Felipe  👋 
+👩‍💻 Desenvolvedor front-end apaixonado por criar interfaces de usuário atraentes e funcionais.
 
-Sou um desenvolvedor front-end apaixonado por criar interfaces de usuário atraentes e funcionais.
+👋 Sou apaixonado por resolução de problemas e possuo excelentes habilidades de comunicação. Trabalho bem em equipe, sou eficiente no gerenciamento de tempo, aplico o pensamento crítico
+em meu trabalho e sou altamente adaptável, capaz de enfrentar desafios e aprender rapidamente em diferentes ambientes e situações. 
 
-Estou constantemente buscando aprender novas tecnologias e me manter atualizado sobre as tendências do setor de desenvolvimento.
+✔ Estou em busca de uma oportunidade para colocar em prática meus conhecimentos e evoluir como desenvolvedor front-end. Se você está em busca de alguém com potencial e vontade de aprender, ficarei feliz em bate um papo com você!
 
-Apesar de ser iniciante em inglês, estou comprometido em aprimorar meu conhecimento nesse idioma para melhor colaborar com equipes.
-
-Estou em busca de uma oportunidade para colocar em prática meus conhecimentos e evoluir como desenvolvedor front-end. Se você está em busca de alguém com potencial e vontade de aprender, ficarei feliz em conversar com você!
+✨ O aprendizado é contínuo e sempre haverá um próximo nível.
