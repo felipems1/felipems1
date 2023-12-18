@@ -11,3 +11,8 @@
 <p align="left">
   👋 Se você está em busca de alguém com potencial e vontade de aprender, ficarei feliz em bate um papo com você!
 </p>
+
+<p align="left">
+  💻 React | React Native | Next | Node
+</p>
+
