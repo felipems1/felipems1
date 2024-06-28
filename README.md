@@ -1,18 +1,16 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
 <p align="left"> 
-   👩‍💻 Desenvolvedor front-end apaixonado por criar interfaces de usuário atraentes e funcionais.
+- Sou um programador Front-end com em média 3 anos de experiência com essas tecnologias: TypeScript, React.js, Next.js, React Native, Node.js, Git, GitHub e muito mais.
 </p>
 
 <p align="left">
-  ✔ Estou em busca de uma oportunidade para colocar em prática meus conhecimentos e evoluir como desenvolvedor front-end. 
+- Minha especialização no front end é uma escolha consciente, pois acredito que a interface do usuário é uma parte fundamental do sucesso de qualquer projeto web. 
 </p>
 
 <p align="left">
-  👋 Se você está em busca de alguém com potencial e vontade de aprender, ficarei feliz em bate um papo com você!
+- Como desenvolvedor experiente, eu valorizo a importância do design e da usabilidade em meus projetos. Além disso, estou sempre em busca das últimas tecnologias e tendências do mercado para garantir que estou oferecendo as melhores soluções para meus clientes.
 </p>
 
 <p align="left">
-  💻 React | React Native | Next | Node
+- Se você está procurando um desenvolvedor web experiente, que pode criar soluções de alta qualidade, estou pronto para ajudar. Vamos trabalhar juntos para transformar suas ideias em um projeto web de sucesso!
 </p>
 
