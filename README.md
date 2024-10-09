@@ -1,5 +1,5 @@
 <p align="left"> 
-- Sou um programador Front-end com 3 anos de experiência com essas tecnologias: TypeScript, React.js, Next.js, React Native, Node.js, Git, GitHub e muito mais.
+- Sou um programador Front-end com experiência com essas tecnologias: TypeScript, React.js, Next.js, React Native, Node.js, Git, GitHub e muito mais.
 </p>
 
 <p align="left">
