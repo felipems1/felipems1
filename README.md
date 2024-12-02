@@ -1,12 +1,12 @@
 <p align="left"> 
-- Desenvolvedor Full Stack com foco em entregar soluções robustas e escaláveis, utilizando tecnologias como TypeScript, Angular, React, Next.js, Node.js e NestJS. Com experiência em desenvolvimento tanto no front-end quanto no back-end, minha atuação vai desde a criação de interfaces intuitivas até a construção de APIs eficientes e seguras.
+- Desenvolvedor Full Stack especializado na entrega de soluções robustas e escaláveis, com expertise em TypeScript, React, Next.js, React Native, Node.js, NestJS, Express e Docker.
 </p>
 
 <p align="left">
-- Entre os projetos desenvolvidos, destaco a criação de uma extensão para o Google Chrome que ajuda vendedores da Amazon e um sistema de gestão para uma empresa.
+- Foco no design e usabilidade: Acredito que uma boa experiência do usuário é tão importante quanto a funcionalidade técnica. Por isso, sempre busco unir design, performance e acessibilidade em cada projeto.
 </p>
 
 <p align="left">
-- Como desenvolvedor experiente, eu valorizo a importância do design e da usabilidade em meus projetos. Além disso, estou sempre em busca das últimas tecnologias e tendências do mercado para garantir que estou oferecendo as melhores soluções.
+- Atualização contínua: Mantenho-me sempre atento às últimas tecnologias e tendências de mercado para garantir que as soluções desenvolvidas estejam alinhadas com as melhores práticas e sejam competitivas.
 </p>
 
