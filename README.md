@@ -1,5 +1,5 @@
 <p align="left"> 
-- Desenvolvedor Full Stack especializado na entrega de soluções robustas e escaláveis, com expertise em TypeScript, React, Next.js, React Native, Node.js, NestJS, Express e Docker.
+- Desenvolvedor Full Stack especializado na entrega de soluções robustas e escaláveis, com expertise em TypeScript, React, Next.js, Node.js, NestJS, Express e Docker.
 </p>
 
 <p align="left">
