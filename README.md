@@ -7,13 +7,13 @@ Projetos:
 </p>
 
 <p align="left">
-- Extensão para Google Chrome: Desenvolvida para otimizar a rotina de vendedores na Amazon, oferecendo uma interface prática para captação e análise de produtos.
+• Sistema de Agendamento Online para Oficina: Plataforma criada para facilitar a marcação de serviços pelos clientes, integrada a um gateway de pagamento que garante a cobrança antecipada da taxa de confirmação, reduzindo faltas e otimizando a gestão do negócio.
 </p>
 
 <p align="left">
-- Sistema de Gestão Empresarial: Solução customizada que aprimorou processos internos, aumentando a organização e a eficiência da empresa.
+• Sistema de Gestão Empresarial: Solução customizada que aprimorou processos internos, aumentando a organização e a eficiência da empresa.
 </p>
 
 <p align="left">
-- Sistema de Agendamento Online para Oficina: Plataforma criada para facilitar a marcação de serviços pelos clientes, integrada a um gateway de pagamento que garante a cobrança antecipada da taxa de confirmação, reduzindo faltas e otimizando a gestão do negócio.
+• Extensão para Google Chrome: Desenvolvida para otimizar a rotina de vendedores na Amazon, oferecendo uma interface prática para captação e análise de produtos.
 </p>
