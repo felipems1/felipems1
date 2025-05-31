@@ -17,3 +17,7 @@ Projetos:
 <p align="left">
 • Extensão para Google Chrome: Desenvolvida para otimizar a rotina de vendedores na Amazon, oferecendo uma interface prática para captação e análise de produtos.
 </p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipems1/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-1DAB5F?style=for-the-badge&labelColor=1DAB5F&color=1DAB5F&logoColor=white)](https://wa.me/5583998719705)
+[![Email](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&labelColor=D14836&color=D14836)](mailto:083felype@gmail.com)
